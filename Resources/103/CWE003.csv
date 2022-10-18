@@ -1,0 +1,57 @@
+"Date   : 29-07-20 [10:18, Asi]                        Open Entries by Business Partner                                                                                Page      :    1",,,,,,,,,,,,
+Obeikan FLEXIBLE                                                                                                                                                      Company   : 103,,,,,,,,,,,,
+Company              From : 000           To   : 999         Business Partner Gr.     From :       To   : ннн       Credit Analyst       From :           To   : ннннннннн,,,,,,,,,,,,
+Business Partner     From : CWE003        To   : CWE003      Transaction Type         From :       To   : ннн,,,,,,,,,,,,
+Document             From :        0      To   : 99999999    Home Currency                 : SAR Saudi Riyal,,,,,,,,,,,,
+Based  on                   Document Date                    Print Parent/Child Relation   : No Parent                 Doubtful Invoices                      : No,,,,,,,,,,,,
+Invoice Date         From :               To   : 29-07-2020  Text                          : No                        Print Payment/Receipt Documents        : No,,,,,,,,,,,,
+Receipt Date         From :               To   : 29-07-2020  Include Anticipated Payments in Invoice Balance         : No              From    : Not Applicable,,,,,,,,,,,,
+Order Related Invoices    : No       None,,,,,,,,,,,,
+Order Related Credit Notes: No                               Include Trade Notes in Invoice Balance                  : No              From    : Not Applicable,,,,,,,,,,,,
+Cost Invoices             : No                               Anticipated Payments                                    : No              From    : Not Applicable,,,,,,,,,,,,
+Cost Credit Notes         : No                               Trade Notes                                             : No              From    : Not Applicable,,,,,,,,,,,,
+Normal Invoices           : Yes                              Unallocated Receipts          : Yes,,,,,,,,,,,,
+Credit Notes              : Yes                              Advance Receipts              : Yes,,,,,,,,,,,,
+Include Fully Paid        : No                               Include Advance Invoice/Payment Request           : Yes,,,,,,,,,,,,
+Anticipated Receipts      : No                               From Receipt Procedure Step    : Not Applicable,,,,,,,,,,,,
+Trade Notes               : No                               From Receipt Procedure Step    : Not Applicable,,,,,,,,,,,,
+Include Anticipated Receipts in Invoice Balance    : No      From Receipt Procedure Step    : Not Applicable,,,,,,,,,,,,
+Include Trade Notes in Invoice Balance             : No      From Receipt Procedure Step    : Not Applicable,,,,,,,,,,,,
+Sort By         Dimension Type            :  1,,,,,,,,,,,,
+____________________________________________________________________________________________________________________________________________________________________________________________,,,,,,,,,,,,
+Document                 ,Sales Type  ,Doc. Date   ,Due Date    ,Ovd  ,Prob,Curr.,          Amount,     Amount In SAR,   Balance Amount,  Balance in HC SAR,Customer Invoice/Pmt Doc Type,
+Sales Invoices        Business Partner    : CWE003               WESTERN BAKERIES (JEDDAH),,,,,,,,,,,,
+                                                                 POBOX 33787                          POBOX 33787,,,,,,,,,,,,
+Company              : 103,,,,,,,,,,,,
+ISI 22031075   0        0,1, 10-05-2020 , 08-08-2020 ,     ,    , SAR ,"68,304.60","68,304.60","68,304.60","68,304.60",                    ,D01064928
+ISI 22031100   0        0,1, 14-05-2020 , 12-08-2020 ,     ,    , SAR ,"43,785.00","43,785.00","43,785.00","43,785.00",                    ,D01064962
+ISI 22031183   0        0,1, 31-05-2020 , 29-08-2020 ,     ,    , SAR ,"50,518.68","50,518.68","50,518.68","50,518.68",                    ,D01065141
+ISI 22031184   0        0,1, 31-05-2020 , 29-08-2020 ,     ,    , SAR ,"36,227.92","36,227.92","36,227.92","36,227.92",                    ,D01065140
+ISI 22031206   0        0,1, 31-05-2020 , 29-08-2020 ,     ,    , SAR ,"28,988.59","28,988.59","28,988.59","28,988.59",                    ,D01065177
+ISI 22031247   0        0,1, 31-05-2020 , 29-08-2020 ,     ,    , SAR ,"25,563.14","25,563.14","25,563.14","25,563.14",                    ,D01065123
+ISI 22031248   0        0,1, 31-05-2020 , 29-08-2020 ,     ,    , SAR ,"37,072.48","37,072.48","37,072.48","37,072.48",                    ,D01065122
+ISI 22031314   0        0,1, 14-06-2020 , 12-09-2020 ,     ,    , SAR ,"74,743.91","74,743.91","74,743.91","74,743.91",                    ,D01065354
+ISI 22031485   0        0,1, 29-06-2020 , 27-09-2020 ,     ,    , SAR ,"56,082.75","56,082.75","56,082.75","56,082.75",                    ,D01065609
+ISI 22031486   0        0,1, 29-06-2020 , 27-09-2020 ,     ,    , SAR ,"21,073.72","21,073.72","21,073.72","21,073.72",                    ,D01065608
+ISI 22031516   0        0,1, 30-06-2020 , 28-09-2020 ,     ,    , SAR ,"35,950.07","35,950.07","35,950.07","35,950.07",                    ,D01065639
+ISI 22031535   0        0,1, 30-06-2020 , 28-09-2020 ,     ,    , SAR ,"43,785.00","43,785.00","43,785.00","43,785.00",                    ,D01065680
+ISI 22031539   0        0,1, 30-06-2020 , 28-09-2020 ,     ,    , SAR ,"35,973.45","35,973.45","35,973.45","35,973.45",                    ,D01065664
+ISI 22031648   0        0,1, 16-07-2020 , 14-10-2020 ,     ,    , SAR ,"24,696.83","24,696.83","24,696.83","24,696.83",                    ,D01065882
+ISI 22031725   0        0,1, 26-07-2020 , 24-10-2020 ,     ,    , SAR ,"38,698.97","38,698.97","38,698.97","38,698.97",                    ,D01066039
+ISI 22031726   0        0,1, 26-07-2020 , 24-10-2020 ,     ,    , SAR ,"39,802.65","39,802.65","39,802.65","39,802.65",                    ,D01066041
+ISI 22031729   0        0,1, 26-07-2020 , 24-10-2020 ,     ,    , SAR ,"39,702.30","39,702.30","39,702.30","39,702.30",                    ,D01066040
+ISI 22031730   0        0,1, 26-07-2020 , 24-10-2020 ,     ,    , SAR ,"33,732.04","33,732.04","33,732.04","33,732.04",                    ,D01066038
+ISI 22031768   0        0,1, 28-07-2020 , 26-10-2020 ,     ,    , SAR ,"38,926.45","38,926.45","38,926.45","38,926.45",                    ,D01066085
+ISI 22040469   0        0,1, 07-04-2020 , 06-07-2020 ,23,    , SAR ,"29,988.00","29,988.00","29,988.00","29,988.00",                    ,SO4034384
+ISI 22040470   0        0,1, 07-04-2020 , 06-07-2020 ,23,    , SAR ,359.86,359.86,359.86,359.86,                    ,SO4034385
+ISI 22040691   0        0,1, 20-05-2020 , 18-08-2020 ,     ,    , SAR ,"9,996.00","9,996.00","9,996.00","9,996.00",                    ,SO4034795
+ISI 22040703   0        0,1, 28-05-2020 , 26-08-2020 ,     ,    , SAR ,"19,992.00","19,992.00","19,992.00","19,992.00",                    ,SO4034819
+ISI 22040742   0        0,1, 08-06-2020 , 06-09-2020 ,     ,    , SAR ,"59,976.00","59,976.00","59,976.00","59,976.00",                    ,SO4034907
+ISI 22040976   0        0,1, 22-07-2020 , 20-10-2020 ,     ,    , SAR ,"65,688.00","65,688.00","65,688.00","65,688.00",                    ,SO4035360
+MSI 22030033   0        0,1, 31-05-2020 , 29-08-2020 ,     ,    , SAR ,"30,240.00","30,240.00","30,240.00","30,240.00",PO-4502233086       ,780
+"               Sales Invoices          TOTAL FOR BUSINESS PARTNER     CWE003                               989,868.41                            989,868.41",,,,,,,,,,,,
+                                       Total for Currency                  , SAR ,"989,868.41",                  ,"989,868.41",,,,,,,,
+                                                                                                   ------------------                    ------------------,,,,,,,,,,,,
+"                                                                            TOTAL                          989,868.41                            989,868.41",,,,,,,,,,,,
+                                                                                                   ==================                    ==================,,,,,,,,,,,,
+                                       Total for Currency                  , SAR ,"989,868.41",                  ,"989,868.41",,,,,,,,
